@@ -59,5 +59,4 @@ public class X2Test {
         int actual = X2.calc(a, b, c, x);
         Assert.assertEquals(expected, actual);
     }
-
 }
