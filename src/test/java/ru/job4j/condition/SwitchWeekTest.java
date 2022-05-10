@@ -15,7 +15,7 @@ class SwitchWeekTest {
     }
 
     @Test
-    void tuesday () {
+    void tuesday() {
         int day = 2;
         String actual = SwitchWeek.nameOfDay(day);
         String expected = "Вторник";
